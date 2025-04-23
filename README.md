@@ -4,7 +4,7 @@ A sleek and responsive mobile wallet dashboard built with React, TailwindCSS, an
 
 ## 🎥 Demo
 
-[View Live Demo](https://drive.google.com/file/d/xxx) <!-- Replace with actual demo link -->
+[View Live Demo](https://drive.google.com/file/d/1kKNQYLSOUDktA1ABhDgHXaHQ26MqZ3gk/view?usp=drive_link)
 
 ## 📱 Important Note
 
